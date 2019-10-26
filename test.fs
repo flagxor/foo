@@ -1,6 +1,6 @@
 #! /usr/bin/env gforth
 
-: hello ." Hello World!" cr ;
+: hello ." Hello SVFIG!" cr ;
 hello
 bye
 
